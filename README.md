@@ -6,14 +6,15 @@
 
 *Estou sempre em busca de novos aprendizados e compreensão das minhas limitações. Adoro enfrentar desafios e resolvê-los com todas as ferramentas que tenho ou encontrar alguém que possa me ajudar nisso. Abaixo você confere todas as minhas habilidades:* 
 
-***Languages***
+
+**Languages**
 
 [![My Skills](https://skillicons.dev/icons?i=,java,py,html,css,c,arduino,raspberrypi)](https://skillicons.dev)
 
-***Databases***
+**Databases**
     
 [![My Skills](https://skillicons.dev/icons?i=,mysql,postgres,)](https://skillicons.dev)
 
-***Servers***
+**Servers**
 
 [![My Skills](https://skillicons.dev/icons?i=,linux,ubuntu,)](https://skillicons.dev)
